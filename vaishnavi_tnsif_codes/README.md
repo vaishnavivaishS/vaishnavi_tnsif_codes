@@ -1,2 +1,2 @@
-# CORE_JAVA_TNSIF_C2TC_Risheek_R
+# core_java_TNS
 TNS training codes
